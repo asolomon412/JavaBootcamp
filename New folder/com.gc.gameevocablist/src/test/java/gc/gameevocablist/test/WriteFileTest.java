@@ -1,6 +1,7 @@
-package com.gc.gamee.com.gc.gameevocablist;
+package gc.gameevocablist.test;
 
 import static org.junit.Assert.assertNull;
+import gc.gameevocablist.WriteFile;
 
 import java.io.FileWriter;
 

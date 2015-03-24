@@ -1,4 +1,4 @@
-package com.gc.gamee.com.gc.gameevocablist;
+package gc.gameevocablist;
 
 import java.io.BufferedReader;
 import java.io.File;

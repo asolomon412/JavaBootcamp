@@ -1,6 +1,7 @@
-package com.gc.gamee.com.gc.gameevocablist;
+package gc.gameevocablist.test;
 
 import static org.junit.Assert.assertNotNull;
+import gc.gameevocablist.URLReader;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

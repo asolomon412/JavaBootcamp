@@ -1,4 +1,4 @@
-package com.gc.gamee.com.gc.gameevocablist;
+package gc.gameevocablist;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

@@ -7,7 +7,7 @@ public class Euler1Practice {
 		System.out.println(value);
 	}
 
-	private static int multiplesOf3And5(int value) {
+	public static int multiplesOf3And5(int value) {
 		for (int i = 0; i < 1000; i++) {
 			if (i % 3 == 0 || i % 5 == 0) {
 				value += i;
